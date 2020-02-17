@@ -1,0 +1,416 @@
+namespace EdiNation.X12.HIPAA004010
+{
+    using System.Collections.Generic;
+    public class C001_CompositeUnitOfMeasure 
+    {
+        public string UnitorBasisforMeasurementCode_01;
+        public string Exponent_02;
+        public string Multiplier_03;
+        public string UnitorBasisforMeasurementCode_04;
+        public string Exponent_05;
+        public string Multiplier_06;
+        public string UnitorBasisforMeasurementCode_07;
+        public string Exponent_08;
+        public string Multiplier_09;
+        public string UnitorBasisforMeasurementCode_10;
+        public string Exponent_11;
+        public string Multiplier_12;
+        public string UnitorBasisforMeasurementCode_13;
+        public string Exponent_14;
+        public string Multiplier_15;
+    }
+    public class C001_CompositeUnitOfMeasure_2 
+    {
+        public string UnitorBasisforMeasurementCode_01;
+        public string Exponent_02;
+        public string Multiplier_03;
+        public string UnitorBasisforMeasurementCode_04;
+        public string Exponent_05;
+        public string Multiplier_06;
+        public string UnitorBasisforMeasurementCode_07;
+        public string Exponent_08;
+        public string Multiplier_09;
+        public string UnitorBasisforMeasurementCode_10;
+        public string Exponent_11;
+        public string Multiplier_12;
+        public string UnitorBasisforMeasurementCode_13;
+        public string Exponent_14;
+        public string Multiplier_15;
+    }
+    public class C001_CompositeUnitOfMeasure_3 
+    {
+        public string UnitorBasisforMeasurementCode_01;
+        public string Exponent_02;
+        public string Multiplier_03;
+        public string UnitorBasisforMeasurementCode_04;
+        public string Exponent_05;
+        public string Multiplier_06;
+        public string UnitorBasisforMeasurementCode_07;
+        public string Exponent_08;
+        public string Multiplier_09;
+        public string UnitorBasisforMeasurementCode_10;
+        public string Exponent_11;
+        public string Multiplier_12;
+        public string UnitorBasisforMeasurementCode_13;
+        public string Exponent_14;
+        public string Multiplier_15;
+    }
+    public class C003_CompositeMedicalProcedureIdentifier 
+    {
+        public string ProductorServiceIDQualifier_01;
+        public string ProcedureCode_02;
+        public string ProcedureModifier_03;
+        public string ProcedureModifier_04;
+        public string ProcedureModifier_05;
+        public string ProcedureModifier_06;
+        public string Description_07;
+    }
+    public class C003_CompositeMedicalProcedureIdentifier_2 
+    {
+        public string ProductorServiceIDQualifier_01;
+        public string ProcedureCode_02;
+        public string ProcedureModifier_03;
+        public string ProcedureModifier_04;
+        public string ProcedureModifier_05;
+        public string ProcedureModifier_06;
+        public string Description_07;
+    }
+    public class C003_CompositeMedicalProcedureIdentifier_3 
+    {
+        public string ProductorServiceIDQualifier_01;
+        public string ProcedureCode_02;
+        public string ProcedureModifier_03;
+        public string ProcedureModifier_04;
+        public string ProcedureModifier_05;
+        public string ProcedureModifier_06;
+        public string Description_07;
+    }
+    public class C003_CompositeMedicalProcedureIdentifier_4 
+    {
+        public string ProductorServiceIDQualifier_01;
+        public string ProcedureCode_02;
+        public string ProcedureModifier_03;
+        public string ProcedureModifier_04;
+        public string ProcedureModifier_05;
+        public string ProcedureModifier_06;
+        public string Description_07;
+    }
+    public class C003_CompositeMedicalProcedureIdentifier_5 
+    {
+        public string ProductorServiceIDQualifier_01;
+        public string ProcedureCode_02;
+        public string ProcedureModifier_03;
+        public string ProcedureModifier_04;
+        public string ProcedureModifier_05;
+        public string ProcedureModifier_06;
+        public string Description_07;
+    }
+    public class C003_CompositeMedicalProcedureIdentifier_6 
+    {
+        public string ProductorServiceIDQualifier_01;
+        public string ProcedureCode_02;
+        public string ProcedureModifier_03;
+        public string ProcedureModifier_04;
+        public string ProcedureModifier_05;
+        public string ProcedureModifier_06;
+        public string Description_07;
+    }
+    public class C003_CompositeMedicalProcedureIdentifier_7 
+    {
+        public string ProductorServiceIDQualifier_01;
+        public string ProcedureCode_02;
+        public string ProcedureModifier_03;
+        public string ProcedureModifier_04;
+        public string ProcedureModifier_05;
+        public string ProcedureModifier_06;
+        public string Description_07;
+    }
+    public class C004_CompositeDiagnosisCodePointer 
+    {
+        public string DiagnosisCodePointer_01;
+        public string DiagnosisCodePointer_02;
+        public string DiagnosisCodePointer_03;
+        public string DiagnosisCodePointer_04;
+    }
+    public class C005_ToothSurface 
+    {
+        public string ToothSurfaceCode_01;
+        public string ToothSurfaceCode_02;
+        public string ToothSurfaceCode_03;
+        public string ToothSurfaceCode_04;
+        public string ToothSurfaceCode_05;
+    }
+    public class C006_OralCavityDesignation 
+    {
+        public string OralCavityDesignationCode_01;
+        public string OralCavityDesignationCode_02;
+        public string OralCavityDesignationCode_03;
+        public string OralCavityDesignationCode_04;
+        public string OralCavityDesignationCode_05;
+    }
+    public class C022_HealthCareCodeInformation 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_10 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_11 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_12 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_13 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_14 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_15 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_16 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_17 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_18 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_19 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_2 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_20 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_3 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_4 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_5 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_6 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_7 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_8 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C022_HealthCareCodeInformation_9 
+    {
+        public string CodeListQualifierCode_01;
+        public string IndustryCode_02;
+        public string DateTimePeriodFormatQualifier_03;
+        public string DateTimePeriod_04;
+        public string MonetaryAmount_05;
+        public string Quantity_06;
+        public string VersionIdentifier_07;
+    }
+    public class C023_HealthCareServiceLocationInformation 
+    {
+        public string FacilityTypeCode_01;
+        public string FacilityCodeQualifier_02;
+        public string ClaimFrequencyTypeCode_03;
+    }
+    public class C023_HealthCareServiceLocationInformation_2 
+    {
+        public string FacilityTypeCode_01;
+        public string FacilityCodeQualifier_02;
+        public string ClaimFrequencyTypeCode_03;
+    }
+    public class C023_HealthCareServiceLocationInformation_3 
+    {
+        public string FacilityTypeCode_01;
+        public string FacilityCodeQualifier_02;
+        public string ClaimFrequencyTypeCode_03;
+    }
+    public class C024_RelatedCausesInformation 
+    {
+        public string RelatedCausesCode_01;
+        public string RelatedCausesCode_02;
+        public string RelatedCausesCode_03;
+        public string StateorProvinceCode_04;
+        public string CountryCode_05;
+    }
+    public class C024_RelatedCausesInformation_2 
+    {
+        public string RelatedCausesCode_01;
+        public string RelatedCausesCode_02;
+        public string RelatedCausesCode_03;
+        public string StateorProvinceCode_04;
+        public string CountryCode_05;
+    }
+    public class C024_RelatedCausesInformation_3 
+    {
+        public string RelatedCausesCode_01;
+        public string RelatedCausesCode_02;
+        public string RelatedCausesCode_03;
+        public string StateorProvinceCode_04;
+        public string CountryCode_05;
+    }
+    public class C042_AdjustmentIdentifier 
+    {
+        public string AdjustmentReasonCode_01;
+        public string ProviderAdjustmentIdentifier_02;
+    }
+    public class C043_HealthCareClaimStatus 
+    {
+        public string HealthCareClaimStatusCategoryCode_01;
+        public string StatusCode_02;
+        public string EntityIdentifierCode_03;
+    }
+    public class C043_HealthCareClaimStatus_2 
+    {
+        public string HealthCareClaimStatusCategoryCode_01;
+        public string StatusCode_02;
+        public string EntityIdentifierCode_03;
+    }
+    public class C043_HealthCareClaimStatus_3 
+    {
+        public string HealthCareClaimStatusCategoryCode_01;
+        public string StatusCode_02;
+        public string EntityIdentifierCode_03;
+    }
+}
